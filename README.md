@@ -2,6 +2,8 @@ Project template project for [HTML5 Shoot 'em Up in an Afternoon](https://leanpu
 
 **Note for older versions of the book (pre-October 2014):**
 
+## A change
+
 You should use an older version of this template if you're using an older version of the book (i.e. one that does not specify the Phaser version in the Introduction).
 
 Get the older version via:
