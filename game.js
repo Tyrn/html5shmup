@@ -348,7 +348,7 @@ BasicGame.Game.prototype = {
   playerPowerUp: function (player, powerUp) {
     this.addToScore(powerUp.reward);
     powerUp.kill();
-    thisPowerUpSFX.play();
+    this.PowerUpSFX.play();
     if (this.weaponLevel < 5) {
       this.weaponLevel++;
     }
